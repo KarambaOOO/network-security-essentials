@@ -46,10 +46,14 @@
 
 ## 💪 Автор
 
-**Karamba** — дядя который тебя (возможно) взломает   
+**Karamba** — дядя который тебя (возможно) взломает  
+
 ---
 
-⚠️ WARNING:  
-Unauthorized access to this repository will be considered an act of intellectual curiosity.  
-Proceed at your own risk 
+## WARNING:  
+
+🗂️ Confidential materials.  
+📖 Upon reading this document, please burn your hard drive.  
+This README will self-destruct in 5 seconds...
+
 
