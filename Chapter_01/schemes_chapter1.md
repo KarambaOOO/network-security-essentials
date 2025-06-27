@@ -85,9 +85,6 @@ A summarized table of the five key principles of information security, including
 - Подходит для быстрого анализа при оценке рисков и проектировании систем безопасности.
 
 - 🔥 Active Attacks — Активные атаки
-mathematica
-Копировать
-Редактировать
 ┌────────────┐
 │  Active    │
 │  Attacks   │
@@ -108,6 +105,7 @@ mathematica
       └── 🛑 Denial of Service (DoS)
             └─ Нарушение нормальной работы
                → перегрузка, блокировка
+
 📋 Сводка в таблице
 Тип атаки	Суть	Пример
 🎭 Masquerade	Притвориться другим пользователем	Атакующий входит в систему от имени администратора
