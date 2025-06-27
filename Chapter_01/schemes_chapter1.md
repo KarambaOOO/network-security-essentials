@@ -53,21 +53,6 @@
 механизмов (шифрование, хэши, контроль)
 служб (аутентификация, фаервол, логирование).
 
-## 🛡️ Security Principles: CIA + AA
-
-A summarized table of the five key principles of information security, including examples for each with varying impact levels.
-
-| **Principle**       | **Definition**                                                                                 | **High Impact Example**                       | **Moderate Impact Example**         | **Low Impact Example**                   |
-| ------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------------------------- | ---------------------------------------- |
-| **Confidentiality** | Protection from unauthorized access or disclosure of data.                                     | Student grade records (FERPA protected)       | Student enrollment records          | Public faculty directory                 |
-| **Integrity**       | Ensuring data accuracy, consistency, and trustworthiness.                                      | Patient allergy data in a hospital database   | User forum with editable posts      | Personal hobby blog                      |
-| **Availability**    | Guaranteeing timely and reliable access to systems and data.                                   | Airline flight scheduling system              | Company website with product info   | Personal blog site                       |
-| **Authenticity**    | Confidence that users, messages, or systems are genuine and unaltered.                         | Bank system login and transaction validation  | Internal email-based authentication | Login form on a fan forum                |
-| **Accountability**  | Ability to trace actions to responsible entities. Supports logging, forensics, and deterrence. | Audit trail in healthcare or e-voting systems | Internal wiki with change history   | Comment logging on entertainment website |
-
-> This table supports understanding of core security objectives used in modern cybersecurity models, especially in assessing threats and designing protective systems.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🛡️ Расширенная модель безопасности: CIA + AA
 
 Эта таблица описывает 5 ключевых принципов информационной безопасности: классическую **триаду CIA** (Confidentiality, Integrity, Availability), а также два дополнительных принципа: **Authenticity** и **Accountability**.
@@ -84,7 +69,7 @@ A summarized table of the five key principles of information security, including
 - Используется градация риска: **High**, **Moderate**, **Low**.
 - Подходит для быстрого анализа при оценке рисков и проектировании систем безопасности.
 
-- 🔥 Active Attacks — Активные атаки
+## 🔥 Active Attacks — Активные атаки
 
 - 
 | Тип атаки                   | Суть                                          | Пример                                             |
