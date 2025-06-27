@@ -47,5 +47,9 @@
 ## 💪 Автор
 
 **Karamba** — дядя который тебя (возможно) взломает   
-## KOAL 
+---
+
+⚠️ WARNING:  
+Unauthorized access to this repository will be considered an act of intellectual curiosity.  
+Proceed at your own risk 
 
