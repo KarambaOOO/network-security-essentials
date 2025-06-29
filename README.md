@@ -46,14 +46,5 @@
 
 ## 💪 Автор
 
-**Karamba** — дядя который тебя (возможно) взломает  
-
----
-
-## WARNING:  
-
-🗂️ Confidential materials.  
-📖 Upon reading this document, please burn your hard drive.  
-This README will self-destruct in 5 seconds...
 
 
