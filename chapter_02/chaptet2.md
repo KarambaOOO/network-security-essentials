@@ -225,6 +225,9 @@ P = D(K1, E(K2, D(K3, C)))     ← Дешифрование
 
 * AddRoundKey — XOR между State и round key
 
+  <img width="695" height="751" alt="image" src="https://github.com/user-attachments/assets/f936bdd9-167f-4d73-9029-508d786e294f" />
+
+
 <img width="928" height="646" alt="image" src="https://github.com/user-attachments/assets/aa74e877-ae3b-4ab2-8f8f-054d3b7c7ff8" />
 
 
