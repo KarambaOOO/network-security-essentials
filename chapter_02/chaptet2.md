@@ -205,6 +205,9 @@ MixColumns — линейное преобразование столбцов (�
 
 AddRoundKey — XOR между State и round key
 
+<img width="928" height="646" alt="image" src="https://github.com/user-attachments/assets/aa74e877-ae3b-4ab2-8f8f-054d3b7c7ff8" />
+
+
 # 🚀 Первый и последний раунды:
 
 Первый раунд: только AddRoundKey
