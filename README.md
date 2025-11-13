@@ -34,7 +34,7 @@
 
 ## 📚 Навигация по главам
 
-- 📘 **Глава 1 — Введение**
+- 📘 **Глава 1 — Введение**(Chapter_01/chapter1.md)
 - 🔐 **Глава 2 — Symmetric Encryption**
 - 🔏 **Глава 3 — Public-Key Cryptography**
 - 🧩 **Глава 4 — User Authentication (в процессе)**
