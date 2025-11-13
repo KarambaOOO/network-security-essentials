@@ -35,9 +35,9 @@
 ## 📚 Навигация по главам
 
 - 📘 [**Глава 1 — Введение**Ъъ](Chapter_01/chapter1.md)
-- 🔐 [**Глава 2 — Symmetric Encryption**]
-- 🔏 [**Глава 3 — Public-Key Cryptography**]
-- 🧩 [**Глава 4 — User Authentication (в процессе)**]
+- 🔐 [**Глава 2 — Symmetric Encryption**](chapter_02/chapter2.md)
+- 🔏 [**Глава 3 — Public-Key Cryptography**](Chapter_03/Chapter_03.md)
+- 🧩 [**Глава 4 — User Authentication (в процессе)**](Chapter_04/chapter_04.md)
 - 🔒 [**Глава 5 — Transport-Level Security (TLS/SSL)**]
 - 📡 [**Глава 6 — Wireless Network Security**]
 - ✉️ [**Глава 7 — Email Security (PGP, S/MIME)**]
