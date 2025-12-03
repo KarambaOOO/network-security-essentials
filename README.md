@@ -22,8 +22,8 @@
 | **2** | Symmetric Encryption & Message Confidentiality   |    ✅     | закончено   |
 | **3** | Public-Key Cryptography & Message Authentication |    ✅     | закончено   |
 | **4** | Key Distribution & User Authentication           |    ✅     | закончено   |
-| **5** | Transport-Level Security (TLS/SSL)               |    ⏳     | в процессе  |
-| **6** | Wireless Network Security                        |    ❌     | не начато   |
+| **5** | Transport-Level Security (TLS/SSL)               |    ✅     | закончено   |
+| **6** | Wireless Network Security                        |    ⏳     | в процессе  |
 | **7** | Electronic Mail Security (PGP / S/MIME)          |    ❌     | не начато   |
 | **8** | IP Security (IPsec)                              |    ❌     | не начато   |
 | **9** | Intruders                                        |    ❌     | не начато   |
